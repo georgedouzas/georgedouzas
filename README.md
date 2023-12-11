@@ -8,10 +8,10 @@ look at my [CV](https://georgedouzas.github.io/about.html) or personal [blog](ht
 A list of my personal projects:
 
 - [geometric-smote](https://github.com/georgedouzas/geometric-smote): An implementation of the Geometric-SMOTE algorithm.
-  Compatible with scikit-learn and imabalanced-learn libraries.
+  Compatible with scikit-learn and imbalanced-learn libraries.
 - [cluster-over-sampling](https://github.com/georgedouzas/cluster-over-sampling): A general interface for clustering based
   over-sampling algorithms. It allows to create oversampling algorithms as combinations of clusterers and oversamplers. Compatible
-  with scikit-learn and imabalanced-learn libraries.
+  with scikit-learn and imbalanced-learn libraries.
 - [sports-betting](https://github.com/georgedouzas/sports-betting): A collection of tools that makes it easy to create machine
   learning models for sports betting and evaluate their performance. Compatible with scikit-learn.
 - [sage-physics](https://github.com/georgedouzas/sage-physics): A Python package to create and simulate physics models. It aims to
