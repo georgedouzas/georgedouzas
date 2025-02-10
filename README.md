@@ -1,7 +1,7 @@
 # Welcome
 
 Hey there, I'm Georgios Douzas! I'm a machine learning researcher and software engineer. If you're interested, feel free to take a
-look at my [CV](https://georgedouzas.github.io/about.html) or personal [blog](https://georgedouzas.github.io/).
+look at my personal [blog](https://georgedouzas.github.io/).
 
 ## Projects
 
@@ -13,6 +13,7 @@ A list of my personal projects:
   learning models for sports betting and evaluate their performance. Compatible with scikit-learn.
 - [scikit-complexity](https://github.com/georgedouzas/sage-physics): A Python package to create and simulate complex systems. It
   aims to provide a unified interface for modelling various complex systems. It is based on SageMath.
+- [brainblocks](https://github.com/BrainBlocksAI/brainblocks): A Reinforcement Learning library that implements a range of classical, deep, and LLM-based RL algorithms.
 - [copier-pdm-nox](https://github.com/georgedouzas/copier-pdm-nox): Copier template for Python projects managed by PDM with the
   help of Nox.
 
