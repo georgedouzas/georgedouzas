@@ -14,8 +14,7 @@ A list of my personal projects:
 - [scikit-complexity](https://github.com/georgedouzas/sage-physics): A Python package to create and simulate complex systems. It
   aims to provide a unified interface for modelling various complex systems. It is based on SageMath.
 - [scikit-ai](https://github.com/georgedouzas/scikit-ai): A unified AI library that brings together classical ML, RL, and LLMs.
-- [copier-pdm-nox](https://github.com/georgedouzas/copier-pdm-nox): Copier template for Python projects managed by PDM with the
-  help of Nox.
+- [copier-modern-python](https://github.com/georgedouzas/copier-modern-python): Copier template for modern Python projects.
 
 ## Publications
 
