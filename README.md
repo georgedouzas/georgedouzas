@@ -11,13 +11,23 @@ A list of my personal projects:
   algorithms, including Geometric SMOTE, KMeans-SMOTE and other oversampling methods.
 - [sports-betting](https://github.com/georgedouzas/sports-betting): A collection of tools that makes it easy to create machine
   learning models for sports betting and evaluate their performance. Compatible with scikit-learn.
-- [scikit-complexity](https://github.com/georgedouzas/sage-physics): A Python package to create and simulate complex systems. It
-  aims to provide a unified interface for modelling various complex systems. It is based on SageMath.
-- [scikit-ai](https://github.com/georgedouzas/scikit-ai): A unified AI library that brings together classical ML, RL, and LLMs.
+- [scikit-complexity](https://github.com/georgedouzas/scikit-complexity): A Python package to create and simulate complex systems.
+  Describe a model from any science in a few lines, and it works out the mathematics, picks a solver and runs the simulation.
+- [scikit-ai](https://github.com/georgedouzas/scikit-ai): Task-oriented components for text, images, audio and video with a
+  scikit-learn API, powered by open-source models or cloud APIs.
+- [veriphy](https://github.com/georgedouzas/veriphy): Certified computer algebra for Lean 4, with agent skills that turn a physics
+  or math statement into a machine-verified proof.
+- [agentorg](https://github.com/georgedouzas/agentorg): A framework for generating multi-agent organisations powered by Agno.
+- [mathpix-mcp](https://github.com/georgedouzas/mathpix-mcp): MCP server for Mathpix OCR. Convert images, PDFs, and DOCX/PPTX to
+  LaTeX and Markdown from any LLM/agent.
 - [copier-modern-python](https://github.com/georgedouzas/copier-modern-python): Copier template for modern Python projects.
 
 ## Publications
 
+- imbalanced-learn-extra: A Python Package for Novel Oversampling Algorithms. [Journal of Open Research
+  Software](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.459).
+- Using genetic programming to improve data collection for offline reinforcement learning. [Swarm and Evolutionary
+  Computation](https://www.sciencedirect.com/science/article/abs/pii/S2210650225002974).
 - Geometric SMOTE for regression. [Expert Systems with
   Applications](https://www.sciencedirect.com/science/article/abs/pii/S095741742101678X).
 - Improving the quality of predictive models in small data GSDOT: A new algorithm for generating synthetic data. [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265626).
